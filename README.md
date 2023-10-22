@@ -7,5 +7,5 @@ Neste repositório voce encontrará a conclusão do desafio de modelagem DIO, qu
 
 ## Diagrama
 <p align="center">
-  <img src="/main/DiagramacaoiPhone.png" alt="Diagrama de Classes">
+  <img src="Diagramacao Iphone.png" alt="Diagrama de Classes">
 </p>
